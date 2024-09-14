@@ -12,7 +12,9 @@
     "lint:fix": "eslint . --fix"
   },
   "dependencies": {
+    "@nuxt/fonts": "^0.8.0",
     "@nuxt/ui": "^2.18.4",
+    "@vee-validate/nuxt": "^4.13.2",
     "nuxt": "^3.13.0",
     "vue": "latest",
     "vue-router": "latest"
